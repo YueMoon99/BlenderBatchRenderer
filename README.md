@@ -12,7 +12,7 @@
 </div>
 
 ---
-## <a href="https://www.creem.io/payment/prod_7QIBzy9UMvbaxN0HDHlxOE">Support me on Creem </a><br>thanks<br>
+## <a href="https://www.creem.io/payment/prod_7QIBzy9UMvbaxN0HDHlxOE" target="_blank">Support me on Creem </a><br>thanks<br>
 
 ## 🇨🇳 简体中文 (Simplified Chinese)
 
