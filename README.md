@@ -18,6 +18,10 @@
 
 **BlenderBatchRenderer** 是一款纯本地、轻量级 Blender 批量渲染队列管理工具。基于 Python 和 PyQt6 开发，旨在解决重度 3D 渲染工作流中频繁手动切换工程、内存泄漏崩溃以及系统资源被完全挤占等痛点。
 
+### 🖥️ 界面预览<br>
+<img width="1185" height="1080" alt="Screenshot 2026-06-30 095158" src="https://github.com/user-attachments/assets/05f30b00-bc09-4e6a-989f-7758fd9567d3" />
+<br><br>
+
 ### ✨ 核心特性
 
 - **🎯 直观的多任务队列管理**<br>
@@ -37,10 +41,6 @@
 - **🔌 自动化后处理**<br>
   - 队列全部完成后，支持自动执行 **关机**、**重启** 或 **睡眠** 操作，安心挂机过夜。<br><br>
 
-### 🖥️ 界面预览<br>
-<img width="1185" height="1080" alt="Screenshot 2026-06-30 095158" src="https://github.com/user-attachments/assets/05f30b00-bc09-4e6a-989f-7758fd9567d3" />
-<br><br>
-
 ### 📦 环境依赖与运行<br>
 由于底层调用了特定的系统 API，本项目**目前仅支持 Windows 系统**。<br><br>
 
@@ -56,6 +56,10 @@ YouTube：@YueMoon99<br><br>
 
 ## 🇺🇸 English<br>
 **BlenderBatchRenderer** is a purely local, lightweight Blender batch rendering queue management tool designed specifically for the Windows platform. Developed with Python and PyQt6, it aims to solve common pain points in heavy 3D rendering workflows, such as frequent manual project switching, memory leak crashes, and total system resource exhaustion.<br><br>
+
+### 🖥️ UI Preview<br>
+<img width="1185" height="1080" alt="Screenshot 2026-06-30 095212" src="https://github.com/user-attachments/assets/359e6a5a-05ae-4830-b61c-add210263f3e" />
+<br><br>
 
 ### ✨ Core Features<br>
 - **🎯 Intuitive Multi-Task Queue Management**<br>
@@ -75,9 +79,6 @@ YouTube：@YueMoon99<br><br>
 - **🔌 Automated Post-Processing**<br>
   - After the queue is fully completed, supports automatic **Shut Down**, **Restart**, or **Sleep** operations for peace of mind during overnight rendering.<br><br>
 
-### 🖥️ UI Preview<br>
-<img width="1185" height="1080" alt="Screenshot 2026-06-30 095212" src="https://github.com/user-attachments/assets/359e6a5a-05ae-4830-b61c-add210263f3e" />
-<br><br>
 ### 📦 Requirements & Execution<br>
 Because it calls specific system APIs, this project **currently only supports Windows OS**.<br><br>
 
